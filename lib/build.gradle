@@ -15,7 +15,7 @@ plugins {
 }
 
 
-group = 'org.example'
+group = 'net.axeltingman'
 version = '1.0'
 
 
@@ -30,8 +30,8 @@ publishing {
 
     repositories {
         maven {
-            name = 'myRepo'
-            url = layout.buildDirectory.dir("repo")
+            name = 'Java_ScannerAdapter'
+            url = layout.buildDirectory.dir("Java_ScannerAdapter")
         }
     }
 }
