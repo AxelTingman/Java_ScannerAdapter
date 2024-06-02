@@ -19,7 +19,7 @@ group = 'net.axeltingman'
 version = '1.0'
 
 
-
+/*
 
 publishing {
     publications {
@@ -35,7 +35,7 @@ publishing {
         }
     }
 }
-
+*/
 
 
 
@@ -68,3 +68,4 @@ tasks.named('test') {
     // Use JUnit Platform for unit tests.
     useJUnitPlatform()
 }
+
