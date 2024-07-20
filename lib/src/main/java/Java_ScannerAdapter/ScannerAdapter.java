@@ -2,7 +2,6 @@ package Java_ScannerAdapter;
 
 /*
 Axel Tingman axti3665
-Uppgift 6.3
 */
 
 import java.util.ArrayList;
